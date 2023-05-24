@@ -1,8 +1,3 @@
-/*
- *  MIT License
- *
- *  Copyright (c) 2019 Michael Pogrebinsky - Distributed Systems & Cloud Computing with Java
- */
 
 import com.sun.net.httpserver.Headers;
 import com.sun.net.httpserver.HttpContext;
